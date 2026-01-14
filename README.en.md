@@ -1,3 +1,5 @@
+[Polska wersja pliku README](README.md)
+
 # 🍳 Recipe Vault
 
 > **Recipe Vault** is a personal digital cookbook that allows users to save recipes from all over the internet in one clean, unified format.
