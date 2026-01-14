@@ -1,4 +1,4 @@
-[PEnglish version README](README.en.md)
+[English version of README](README.en.md)
 
 # 🍳 Przepiśnik
 
